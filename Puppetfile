@@ -17,6 +17,13 @@ forge 'https://forge.puppet.com'
 #  branch: 'docs_experiment'
 
 mod 'puppetlabs-puppet_operational_dashboards', '2.4.0'
+mod 'puppet-grafana', '14.2.0'
+mod 'puppet-telegraf', '5.4.0'
+mod 'puppetlabs-apt', '9.4.0'
+mod 'puppetlabs-inifile', '6.2.0'
+mod 'puppetlabs-influxdb', '2.4.0'
+mod 'puppetlabs-stdlib', '9.7.0'
+
 mod 'nginx_ansible_plugin',
   :git => 'https://github.com/the-yorkshire-allen/nginx_ansible_plugin.git',
   :ref => 'v0.1.0'
