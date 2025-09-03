@@ -23,6 +23,7 @@ mod 'puppetlabs-apt', '9.4.0'
 mod 'puppetlabs-inifile', '6.2.0'
 mod 'puppetlabs-influxdb', '2.4.0'
 mod 'puppetlabs-stdlib', '9.7.0'
+mod 'puppet-archive', '7.1.0'
 
 mod 'nginx_ansible_plugin',
   :git => 'https://github.com/the-yorkshire-allen/nginx_ansible_plugin.git',
