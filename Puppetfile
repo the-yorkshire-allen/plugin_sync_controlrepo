@@ -15,3 +15,7 @@ forge 'https://forge.puppet.com'
 #mod 'apache',
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
+
+mod 'nginx_ansible_plugin',
+  :git => 'https://github.com/the-yorkshire-allen/nginx_ansible_plugin.git',
+  :ref => 'v0.1.0'
