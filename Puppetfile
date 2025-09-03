@@ -27,4 +27,4 @@ mod 'puppet-archive', '7.1.0'
 
 mod 'nginx_ansible_plugins',
   :git => 'https://github.com/the-yorkshire-allen/nginx_ansible_plugins.git',
-  :ref => 'v0.1.0'
+  :ref => 'v0.1.1'
